@@ -1,3 +1,3 @@
-ヒト型レスコンで使用するAIちゃんのライブラリーです。
-プリメイドAIに搭載のCPUにAruduinoをインストールして使用するためのものです。
-デベさんのhttps://github.com/devemin/Pre-maiduino.gitが元ネタで,ライブラリとしてすぐに使えるように分けただけです）
+プリメイドAIに搭載のCPUにAruduinoのライブラリとして使うためのものです。
+デベさんのhttps://github.com/devemin/Pre-maiduino.gitが元ネタです。
+使用方法は、chatGPTでこのファイルのURLを入力すると答えてくれます。
